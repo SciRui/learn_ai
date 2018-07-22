@@ -1,0 +1,3 @@
+数据下载地址:http://kdd.ics.uci.edu/databases/covertype/covertype.html
+数据使用说明：http://kdd.ics.uci.edu/databases/covertype/covertype.data.html
+数据分类任务描述：https://translate.google.cn/#en/zh-CN/cartographic%20variables
